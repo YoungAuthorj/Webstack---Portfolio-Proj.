@@ -1,6 +1,6 @@
 # Webstack---Portfolio-Project
 
-##My Royal Hotel Website
+## My Royal Hotel Website
 
 ## Hotel Website for Webstack - Portfolio Project
 
